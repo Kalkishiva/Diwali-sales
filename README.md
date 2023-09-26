@@ -6,18 +6,19 @@ This repository contains valuable customer insights to help businesses effective
 Target Customer Segment
 The identified potential customer group for businesses targeting Diwali season sales comprises the following characteristics:
 
-Marital Status: Unmarried
-Age Group: Young adults aged between 36 and 45 years
-Geographic Focus
-The analysis reveals that the majority of potential customers are located in the following Indian states:
+- Marital Status: Unmarried
+- Age Group: Young adults aged between 36 and 45 years
+- Geographic Focus
+- The analysis reveals that the majority of potential customers are located in the following Indian states:
 
 Ideal Customer Profile
 For businesses targeting this market during Diwali, the ideal customer profile includes:
 
-Demographics: Unmarried women
-Geographic Location: Residents of Uttar Pradesh, Maharashtra, and Karnataka
-Profession: Those working in IT, Healthcare, and Aviation
-Product Preferences: Likely to buy products from Food, Clothing, and Electronics categories
+- Demographics: Unmarried women
+- Geographic Location: Residents of Uttar Pradesh, Maharashtra, and Karnataka
+- Profession: Those working in IT, Healthcare, and Aviation
+- Product Preferences: Likely to buy products from Food, Clothing, and Electronics categories
+- 
 Understanding this profile is crucial for businesses looking to tailor their marketing campaigns, product offerings, and customer engagement strategies effectively.
 
 Continuous Analysis and Updates
